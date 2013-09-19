@@ -1,3 +1,5 @@
+<<<<<<< HEAD
 Hallo
 
-Diese Zeile stammt aus dem featureA branch.
+Diese Zeile stammt a.
+>>>>>>> origin/hotfix
